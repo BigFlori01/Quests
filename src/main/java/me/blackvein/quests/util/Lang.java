@@ -86,7 +86,7 @@ public class Lang {
 		//Quests
         langMap.put("questFailed", "*QUEST FAILED*");
         langMap.put("questMaxAllowed", "You may only have up to <number> Quests.");
-        langMap.put("questAlreadyOn", "You are already on that Quest!");
+        langMap.put("questAlreadyOn", "Már kveszten vagy");
         langMap.put("questTooEarly", "You may not take <quest> again for another <time>.");
         langMap.put("questAlreadyCompleted", "You have already completed <quest>.");
         langMap.put("questInvalidLocation", "You may not take <quest> at this location.");
